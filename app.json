@@ -1,0 +1,7 @@
+{
+  "name": "KoperasiApp",
+  "displayName": "KoperasiApp",
+  "android": {
+    "softwareKeyboardLayoutMode": "pan"
+  }
+}
